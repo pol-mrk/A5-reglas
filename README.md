@@ -18,7 +18,7 @@ Ahora, crearemos otro selector combinado, (formado por el **id** que hemos cread
 ## Regla 9 ##
 Seguidamente crearemos un selector de tipo ``iframe`` del **100%** de anchura y **400px** de altura.
 ## Regla 10 ##
-Después, crearemos una **clase** llamada ``content``, donde pondremos la fuente del texto del *contenido*.
+Después, crearemos una **clase** llamada ``content``, donde pondremos la fuente del texto del *contenido* (``font-family: 'Poppins', sans-serif;``)
 ## Regla 11 ##
 Más tarde, crearemos un selector de tipo ``img``, donde pondremos el **100%** del tamaño.
 ## Regla 12 ##
